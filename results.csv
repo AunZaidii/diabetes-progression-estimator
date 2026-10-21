@@ -1,0 +1,4 @@
+Model,Train MSE,Test MSE,Test MAE,Test R2
+Baseline (predict mean),6076.4,5361.53,64.01,-0.01
+Linear: BMI only,3854.11,4061.83,52.26,0.23
+Linear: all features,2868.55,2900.19,42.79,0.45
